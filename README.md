@@ -24,7 +24,6 @@ This project explores supermarket sales data using SQL and Power BI. The goal wa
 ## Files in this Repo
 - `Supermarket Sales Analysis.docx`: Project report and screenshots
 - `analysis_queries.sql`: SQL queries used to analyze the data
-- *(Optional)* Power BI Dashboard screenshot or `.pbix` file
 
 ## Author
 Anthony Dougher
